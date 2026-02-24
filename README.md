@@ -2,7 +2,7 @@
 #  I'm Md. Tawfiqul Islam Tamal
 **Passionate about Data Science, Machine Learning & Cloud Engineering**
 
-Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or Anything Else. 
 
 
 
