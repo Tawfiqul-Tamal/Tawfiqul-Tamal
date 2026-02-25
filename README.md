@@ -69,7 +69,7 @@ Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or An
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawfiqul-Tamal)](https://github.com/Tawfiqul-Tamal/github-readme-stats)
+
 
 
 
