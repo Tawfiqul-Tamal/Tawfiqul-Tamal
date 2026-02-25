@@ -1,4 +1,25 @@
 
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
+</div>
+
+<div align="center">
+
+  ## 🌐 Socials
+
+  <a href="https://instagram.com/tawfiqul_islam_58" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:tamaltawfiqul@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+</div>
+
+
 #  I'm Md. Tawfiqul Islam Tamal
 **Passionate about Data Science & Machine Learning **
 
@@ -13,14 +34,6 @@ Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or An
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tawfiqul-Tamal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tawfiqul_islam_58) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaltawfiqul@gmail.com) 
-
 
 
 # 💻 Tech Stack:
