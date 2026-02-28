@@ -3,6 +3,10 @@
   <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
 </div>
 
+
+
+
+
 <div align="center">
 
   <h2>🌐 Socials</h2>
@@ -19,6 +23,10 @@
 
   <br><br>
 
+
+<p align="center" style="transform: scale(100); display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=tawfiqul-tamal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="tawfiqul-tamal" />
+</p>
 </div>
 
 
@@ -68,6 +76,47 @@ Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or An
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
