@@ -3,7 +3,6 @@
   <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
 </div>
 
-
 <div align="center">
 
   <h2>🌐 Socials</h2>
