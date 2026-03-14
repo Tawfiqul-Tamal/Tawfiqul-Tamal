@@ -37,7 +37,6 @@
 </div>
 
 
-
 #  I'm Md. Tawfiqul Islam Tamal
 **Passionate about Data Science & Machine Learning **
 
