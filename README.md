@@ -19,7 +19,6 @@
 
 
 
-
 <a href="https://tamalnewprorjolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=fontawesome&label=&color=3bace2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </a>
