@@ -47,7 +47,6 @@ Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or An
 <h3 align="center"> Git Status</h3>
 
 ###
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
