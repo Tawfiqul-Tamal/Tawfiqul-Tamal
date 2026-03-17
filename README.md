@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-
   <h2>🌐 Socials</h2>
 
   <a href="https://instagram.com/tawfiqul_islam_58" target="_blank">
