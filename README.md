@@ -1,3 +1,16 @@
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:38bdf8,100:1e3a8a&height=220&section=header&text=Md.%20Tawfiqul%20Islam%20Tamal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Data-Driven%20Solutions&descAlignY=60" />
+</p>
+
+
+
+
+
+
+
+
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
 </div>
