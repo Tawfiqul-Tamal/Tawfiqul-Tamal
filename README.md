@@ -4,6 +4,19 @@
 </p>
 
 
+
+
+
+
+
+
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
+</div>
+
+<div align="center">
+
+
 <p align="center">
   <a href="mailto:tamaltawfiqul@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
@@ -20,11 +33,17 @@
 
 
 
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
-</div>
 
-<div align="center">
+
+
+
+
+
+
+
+
+
+  
   <h2>🌐 Socials</h2>
 
   <a href="https://instagram.com/tawfiqul_islam_58" target="_blank">
