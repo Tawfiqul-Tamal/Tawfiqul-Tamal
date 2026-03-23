@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:38bdf8,100:1e3a8a&height=220&section=header&text=Md.%20Tawfiqul%20Islam%20Tamal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Data-Driven%20Solutions&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Md.%20Tawfiqul%20Islam%20Tamal&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
 
