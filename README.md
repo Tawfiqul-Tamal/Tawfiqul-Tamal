@@ -4,7 +4,17 @@
 </p>
 
 
-
+<p align="center">
+  <a href="mailto:tamaltawfiqul@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  </a>
+  <a href="https://tamalnewprorjolio.vercel.app/">
+    <img src="https://img.icons8.com/fluency/48/domain.png"/>
+  </a>
+</p>
 
 
 
