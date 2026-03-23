@@ -1,47 +1,9 @@
 
-<p align="center">
-  <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Md.%20Tawfiqul%20Islam%20Tamal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=60&descAlign=50"/>
-</p>
-
-
-
-
-
-
-
-
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
 </div>
 
 <div align="center">
-
-
-<p align="center">
-  <a href="mailto:tamaltawfiqul@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
-  </a>
-  <a href="https://linkedin.com/in/md-tawfiqul-islam-tamal-793bb429a">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-  </a>
-  <a href="https://tamalnewprorjolio.vercel.app/">
-    <img src="https://img.icons8.com/fluency/48/domain.png"/>
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   
   <h2>🌐 Socials</h2>
