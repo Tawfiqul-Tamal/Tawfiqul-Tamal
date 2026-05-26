@@ -3,7 +3,6 @@
 </div>
 <div align="center">
   <h2>🌐 Socials</h2>
-
   <a href="https://instagram.com/tawfiqul_islam_58" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
