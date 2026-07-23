@@ -23,7 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=tawfiqul-tamal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="tawfiqul-tamal" />
 </p>
 </div>
-
 #  I'm Md. Tawfiqul Islam Tamal
 **Passionate about Data Science & Machine Learning **
 
