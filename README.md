@@ -28,7 +28,6 @@
 **Passionate about Data Science & Machine Learning **
 
 Email Me 👉 ✉️ **tamaltawfiqul@gmail.com** For Collaboration/Project or Anything Else. 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tawfiqul-Tamal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
