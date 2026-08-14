@@ -17,7 +17,6 @@
 <a href="https://tamalnewprorjolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=fontawesome&label=&color=3bace2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </a>
-
   <br><br>
 <p align="center" style="transform: scale(100); display: inline-block;">
   <img src="https://komarev.com/ghpvc/?username=tawfiqul-tamal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="tawfiqul-tamal" />
