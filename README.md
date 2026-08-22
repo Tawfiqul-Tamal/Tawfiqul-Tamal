@@ -1,5 +1,4 @@
 <div align="center">
-
 <img height="150" src="https://raw.githubusercontent.com/Tawfiqul-Tamal/Tawfiqul-Tamal/main/assets/images/Tamal_GIF2.gif" />
 <h1>Md. Tawfiqul Islam Tamal</h1>
 <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+Machine+Learning;Applied+ML+Researcher;Building+Explainable+AI+Systems;CSE+Student+%40+AIUB&font=Fira+Code&center=true&width=520&height=45&color=0e75b6&vCenter=true&size=22" alt="typing-animation" />
