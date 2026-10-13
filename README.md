@@ -37,6 +37,7 @@ I'm Md. Tawfiqul Islam Tamal, a Computer Science &amp; Engineering student at <b
 
 ## 🧭 Data Science Focus Areas
 
+
 <table align="center">
 <tr>
 <td align="center" style="padding:16px;">🤖<br><br><b>Machine Learning</b><br><sub>Supervised &amp; ensemble models</sub><br><br><img src="https://img.shields.io/badge/Proficient-0e75b6?style=flat-square" /></td>
