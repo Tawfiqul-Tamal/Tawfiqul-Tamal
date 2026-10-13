@@ -50,7 +50,6 @@ I'm Md. Tawfiqul Islam Tamal, a Computer Science &amp; Engineering student at <b
 <td align="center" style="padding:16px;">📝<br><br><b>Academic Research</b><br><sub>Paper writing &amp; peer review</sub><br><br><img src="https://img.shields.io/badge/Proficient-0e75b6?style=flat-square" /></td>
 </tr>
 </table>
-
 <br>
 
 ## 💻 Tech Stack
