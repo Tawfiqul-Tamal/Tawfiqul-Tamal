@@ -3,7 +3,6 @@
 <h1>Md. Tawfiqul Islam Tamal</h1>
 <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+Machine+Learning;Applied+ML+Researcher;Building+Explainable+AI+Systems;CSE+Student+%40+AIUB&font=Fira+Code&center=true&width=520&height=45&color=0e75b6&vCenter=true&size=22" alt="typing-animation" />
 <br>
-
 <a href="https://md-tawfiqul-islam-tamal-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-3bace2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
